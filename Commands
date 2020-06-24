@@ -1,0 +1,6 @@
+Commands to install libraries:
+pip install jsonlib
+pip install beautifulsoup4
+pip install urllib3 OR pip install pycopy-urllib.request
+pip install pillow OR pip install Pillow==2.2.2
+pip install tkintertable
